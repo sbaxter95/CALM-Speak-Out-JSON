@@ -1,0 +1,317 @@
+[
+	{
+		"text": "OK, here is a link to a charity that could help you",
+		"sentiments":["fear", "shame", "scary words"],
+		"keywords":["panic", "phobia", "ocd"],
+		"resource": {
+		 "Name": "No Panic",
+		 "Description" :  "Voluntary charity offering support for sufferers of panic attacks and OCD. Offers a course to help overcome your phobia/OCD. Includes a helpline.",
+		 "Type": "Phone",
+		 "Days": {
+		   "Monday": "10:00-22:00",
+		   "Tuesday": "10:00-22:00",
+		   "Wednesday":"10:00-22:00",
+		   "Thurday":"10:00-22:00",
+		   "Friday": "10:00-22:00",
+		   "Saturday":"10:00-22:00",
+		   "Sunday":"10:00-22:00"
+		 },
+	 	"Resource": "0844 967 4848",
+		}
+	},
+	{
+		"text":"Here is a link to some experts who can help you deal with debt",
+		"sentiments":["fear", "shame"],
+		"keywords":["debt", "advice", "live chat"],
+		"resource": {
+			"Name": "StepChange",
+	 		"Description" : "Debt experts help over 620,000 people a year to deal with their debt problems.",
+	 		"Type": "Website",
+		 "Days": {
+		   "Monday": "00:00-23:59",
+		   "Tuesday": "00:00-23:59",
+		   "Wednesday": "00:00-23:59",
+		   "Thurday": "00:00-23:59",
+		   "Friday": "00:00-23:59",
+		   "Saturday": "00:00-23:59",
+		   "Sunday:": "00:00-23:59"
+		 },
+	 "Resource": "https://www.stepchange.org/Howwecanhelpyou/Debtadvice.aspx"
+		}
+	},
+	{
+		"text":"OK, here is a link to a useful charity",
+		"sentiments":["fear, shame"],
+		"keywords":["emotional", "mental illness"],
+		"resource": {
+		"Name": "SANEline",
+		"Description" : "Emotional support, information and guidance for people affected by mental illness, their families and carers.",
+		"Type": "Phone",
+		"Days": {
+		  "Monday": "16:30-22:30",
+		  "Tuesday": "16:30-22:30",
+		  "Wednesday": "16:30-22:30",
+		  "Thursday": "16:30-22:30",
+		  "Friday": "16:30-22:30",
+		  "Saturday": null,
+		  "Sunday:": null
+	 },
+	 "Resource": "0300 304 7000"
+		}
+	},
+	{
+		"text":"OK, here is a link to a useful website",
+		"sentiments":["fear", "shame", "anger"],
+		"keywords":["mental illness", "website"],
+		"resource": {
+			"Name": "Mental Health Foundation",
+	 		"Description" : "Promotes the views and needs of people with mental health problems.",
+	 		"Type": "Website",
+	 		"Days": {
+	   			"Monday": "00:00-23:59",
+	   			"Tuesday": "00:00-23:59",
+	   			"Wednesday":"00:00-23:59",
+	   			"Thursday":"00:00-23:59",
+	   			"Friday": "00:00-23:59",
+	   			"Saturday":"00:00-23:59",
+	   			"Sunday":"00:00-23:59"
+	 },
+	 "Resource": "www.mentalhealth.org.uk"
+		}
+	},
+	{
+		"text":"OK, here is a useful resource",
+		"sentiments":["fear", "shame", "anger"],
+		"keywords":["mental illness", "helpline"],
+		"resource": {
+			"Name": "Rethink Mental Illness",
+	 		"Description" : "Support and advice for people living with mental illness.",
+	 		"Type": "Phone",
+	 		"Days": {
+	   			"Monday": "09:30-16:00",
+	   			"Tuesday": "09:30-16:00",
+	   			"Wednesday": "09:30-16:00",
+	   			"Thursday": "09:30-16:00",
+	   			"Friday": "09:30-16:00",
+	   			"Saturday": null,
+	   			"Sunday:": null
+	 },
+	 "Resource": "0300 5000 927",
+		}
+	},
+	{
+		"text":"OK, here is a resource if you have been diagnosed with an anxiety condition",
+		"sentiments":["fear", "shame"],
+		"keywords":["anxiety", "website", "mental illness"],
+		"resource": {
+			"Description" : "Charity providing support if you've been diagnosed with an anxiety condition.",
+			 "Type": "Website",
+			 "Days": {
+			   "Monday": "09:30-17:30",
+			   "Tuesday": "09:30-17:30",
+			   "Wednesday": "09:30-17:30",
+			   "Thursday": "09:30-17:30",
+			   "Friday": "09:30-17:30",
+			   "Saturday": "null",
+			   "Sunday": "null"
+	 		},
+	 	"Resource": "08444 775 774"
+		}
+	},
+	{
+		"text":"Here is a link to an OCD charity,run by people with OCD",
+		"sentiments":["fear", "shame", "anger"],
+		"keywords":["ocd", "anxiety"],
+		"resource": {
+			"Name": "OCD UK",
+	 		"Description" : "A charity run by people with OCD, for people with OCD. Includes facts, news and treatments.",
+	 		"Type": "Phone",
+		 	"Days": {
+		   		"Monday": "09:00-17:00",
+		   		"Tuesday": "09:00-17:00",
+		   		"Wednesday": "09:00-17:00",
+		   		"Thursday": "09:00-17:00",
+		   		"Friday": "09:00-17:00"
+		 	},
+	 "Resource": "0845 120 3778"
+		}
+	},
+	{
+		"text":"OK, here is a useful link",
+		"sentiments":["fear", "shame"],
+		"keywords":["ocd", "anxiety"],
+		"resource": {
+			"Name": "OCD Action",
+	 		"Description" : "Support for people with obsessive compulsive disorder (OCD). Includes information on treatment and online resources.",
+	 		"Type": "Phone",
+	 		"Days": {
+	   			"Monday": "09:30-17:00",
+	   			"Tuesday": "09:30-17:00",
+	   			"Wednesday": "09:30-17:00",
+	   			"Thursday": "09:30-17:00",
+	   			"Friday": "09:30-17:00"
+	 	},
+	 "Resource": "0845 390 6232"
+		}
+	},
+	{
+		"text":"Here is a helpline that could provide assistance",
+		"sentiments":["fear", "shame", "anger"],
+		"keywords":["bullying", "family", "parenting"],
+		"resource": {
+			"Name": "FamilyLine",
+			"Description" : "Providing information, advice, guidance and support on any aspect of parenting and family life, including bullying.",
+			"Type": "Phone",
+			"Days": {
+				"Monday": "9:00-18:00",
+				"Tuesday": "9:00-18:00",
+				"Wednesday": "9:00-18:00",
+				"Thursday": "9:00-18:00",
+				"Friday": "9:00-18:00",
+				"Saturday": "10:00-15:00",
+				"Sunday": "10:00-15:00"
+	},
+	"Resource": "0800 800 2222"
+		}
+	},
+	{
+		"text":"Here is a useful resource for children and adolescents",
+		"sentiments":["fear", "shame", "anger"],
+		"keywords":["young people", "parents", "child", "adolescent", "mental health"],
+		"resource": {
+			"Name": "YoungMinds",
+	 		"Description" : "Information on child and adolescent mental health. Services for parents and professionals.",
+	 		"Type": "Phone",
+			 "Days": {
+			   "Monday": "09:00-18:00",
+			   "Tuesday": "09:00-18:00",
+			   "Wednesday": "09:00-18:00",
+			   "Thursday": "09:00-18:00",
+			   "Friday": "09:00-18:00",
+			   "Saturday": "09:00-18:00",
+			   "Sunday": "09:00-18:00"
+	 		},
+	 "Resource": "0808 802 5544"
+		}
+	},
+	{
+		"text":"OK, here is a link to a resource for homelessness",
+		"sentiments":["fear", "anger", "shame"],
+		"keywords":["Homelessness", "Shelter", "Housing"],
+		"resource": {
+			 "Name": "Shelter Phone",
+	 		"Description" :  "Phone support and help for homelessness",
+	 		"Type": "Phone",
+			 "Days": {
+			   "Monday": "08:00-20:00",
+			   "Tuesday": "08:00-20:00",
+			   "Wednesday":"08:00-20:00",
+			   "Thursday":"08:00-20:00",
+			   "Friday": "08:00-20:00",
+			   "Saturday":"09:00-17:00",
+			   "Sunday":"09:00-17:00"
+			 },
+	 "Resource": "0808 800 4444"
+		}
+	},
+	{
+		"text":"Here is a link to a resource",
+		"sentiments":["fear", "anger", "shame"],
+		"keywords":["men", "domestic", "violence"],
+		"resource": {
+			"Name": "Men's Advice Line",
+	 		"Description" :  "Help and support for male victims of domestic violence",
+	 		"Type": "Phone",
+			"Days": {
+			  "Monday": "09:00-17:00",
+			  "Tuesday": "09:00-17:00",
+			  "Wednesday":"09:00-17:00",
+			  "Thurday":"09:00-17:00",
+			  "Friday": "09:00-17:00",
+			  "Saturday":"null",
+			  "Sunday":"null"
+			},
+	 "Resource": "0808 801 0327"
+		}
+	},
+	{
+		"text":"OK, here is a link to some phone based support",
+		"sentiments":["fear", "shame"],
+		"keywords":["lonliness", "lonely", "local", "community"],
+		"resource": {
+			"Name": "British Red Cross - Connecting Communities",
+			 "Description" :  "The British Red Cross connecting communities service offers up to three months of support to suit you.",
+			 "Type": "Phone",
+			 "Days": {
+			   "Monday": "09:30-17:00",
+			   "Tuesday": "09:30-17:00",
+			   "Wednesday":"09:30-17:00",
+			   "Thurday":"09:30-17:00",
+			   "Friday": "09:30-17:00",
+			   "Saturday":"null",
+			   "Sunday":"null"
+			 },
+	 "Resource": "0300 456 1155"
+		}
+	},
+	{
+		"text":"Link to a website that will provide advice and information",
+		"sentiments":["shame", "anger"],
+		"keywords":["benefits", "advice", "debt"],
+		"resource": {
+			"Name": "Citizens Advice",
+	 		"Description" :  "Provides a range of advice on benefits, work and debt related issues.",
+	 		"Type": "Website",
+			 "Days": {
+			   "Monday": "00:00-23:59",
+			   "Tuesday": "00:00-23:59",
+			   "Wednesday":"00:00-23:59",
+			   "Thurday":"00:00-23:59",
+			   "Friday": "00:00-23:59",
+			   "Saturday": "00:00-23:59",
+			   "Sunday": "00:00-23:59"
+			 },
+	 "Resource": "https://www.citizensadvice.org.uk/"
+		}
+	},
+	{
+		"text":"Here is a link to a helpline that can provide information and advice",
+		"sentiments":["fear", "shame"],
+		"keywords":["relationships", "dating"],
+		"resource": {
+			"Name": "Relate",
+			 "Description" :  "Offers advice, relationship counselling, sex therapy, workshops, mediation, consultations and support.",
+			 "Type": "Phone",
+			 "Days": {
+			   "Monday": "08:00-22:00",
+			   "Tuesday": "08:00-22:00",
+			   "Wednesday":"08:00-22:00",
+			   "Thurday":"08:00-22:00",
+			   "Friday": null,
+			   "Saturday": null,
+			   "Sunday": null
+			 },
+	 "Resource": "0300 100 1234"
+		}
+	},
+	{
+		"text":"OK, here is the phone number of the Samaritans",
+		"sentiments":["fear", "anger", "shame", "scary words"],
+		"keywords":["Suicide", "Talk", "Help"],
+		"resource": {
+			 "Name": "Samaritans",
+			 "Description" : "",
+			 "Type": "Phone",
+			 "Days": {
+			   "Monday": "00:00-23:59",
+			   "Tuesday": "00:00-23:59",
+			   "Wednesday":"00:00-23:59",
+			   "Thursday":"00:00-23:59",
+			   "Friday": "00:00-23:59",
+			   "Saturday":"00:00-23:59",
+			   "Sunday":"00:00-23:59"
+			 },
+	 "Resource": "116 123"
+		} 
+	}
+]	
